@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+/*Главный контейнер*/
+.main-container {
+  display: flex;
+  justify-content: space-between;
+
+  width: 940px;
+  height: 929px;
+
+  border: red solid 5px;
+}
+
