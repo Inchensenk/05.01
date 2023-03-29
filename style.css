@@ -1,7 +1,4 @@
-* {
-  margin: 0;
-  padding: 0;
-}
+  
 /*Главный контейнер*/
 .main-container {
   display: flex;
@@ -13,3 +10,19 @@
   border: red solid 5px;
 }
 
+/*Таблица*/
+.table-wrapper{}
+
+.table{}
+
+.table__head{}
+.table__head-item{}
+.table_head-item--item-left{}
+.table_head-item--item-center{}
+.table_head-item--item-right{}
+
+.table__body{}
+.table-row{}
+.table-row__data--left{}
+.table-row__data--center{}
+.table-row__data--right{}
